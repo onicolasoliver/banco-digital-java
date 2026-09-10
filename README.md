@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🏦 Banco Digital em Java
 
 Projeto prático de um **Banco Digital** desenvolvido em **Java**, com foco nos pilares da **Programação Orientada a Objetos (POO)**: Abstração, Encapsulamento, Herança e Polimorfismo.
